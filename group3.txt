@@ -1,0 +1,1 @@
+Best Model R2 Score: 0.8825
